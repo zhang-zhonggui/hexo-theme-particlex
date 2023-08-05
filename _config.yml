@@ -11,6 +11,9 @@ favicon: https://static-argvchs.netlify.app/images/favicon.png
 background:
     - https://static-argvchs.netlify.app/images/background.jpg
 
+# Loading image
+loading: /images/loading.gif
+
 # Optional colors for category and tag
 colors:
     - "#ffa2c4"
