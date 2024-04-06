@@ -111,7 +111,7 @@ crypto:
 search:
     enable: true
 
-# Giscus
+# giscus
 # https://github.com/giscus/giscus
 giscus:
     enable: true
