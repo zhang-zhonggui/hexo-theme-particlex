@@ -2,11 +2,56 @@
 # https://github.com/theme-particlex/hexo-theme-particlex
 
 # Avatar image
-avatar: https://static-argvchs.netlify.app/images/avatar.jpg
+avatar: https://cdn.jsdmirror.com/gh/zhang-zhonggui/blog/bolg/avatar.jpeg
 
 # Home page background image
 background:
-    - https://static-argvchs.netlify.app/images/background.jpg
+    - https://i.p-i.vip/24/20240708-668b70ee1691e.jpg
+    - https://i.p-i.vip/24/20240708-668b71669c376.jpg
+    - https://i.p-i.vip/24/20240708-668b7166c8f0f.jpg
+    - https://i.p-i.vip/24/20240708-668b71669c376.jpg
+    - https://i.p-i.vip/24/20240708-668b7166c8f0f.jpg
+    - https://i.p-i.vip/24/20240708-668b6fa9467b7.jpg
+    - https://i.p-i.vip/24/20240708-668b70ee1691e.jpg
+    - https://i.p-i.vip/24/20240708-668b70ee1691e.jpg
+    - https://i.p-i.vip/24/20240708-668b7166c8f0f.jpg
+    - https://i.p-i.vip/24/20240708-668b71d3a671e.jpg
+    - https://i.p-i.vip/24/20240708-668b71d0ea049.jpg
+    - https://i.p-i.vip/24/20240708-668b71d1f0243.jpg
+    - https://cdn.jsdmirror.com/gh/zhang-zhonggui/blog/bolg/8.jpg
+    - https://i.p-i.vip/24/20240708-668b71cf411e7.jpg
+    - https://i.p-i.vip/24/20240708-668b71d0c12c1.jpg
+    - https://i.p-i.vip/24/20240708-668b733dc5100.jpg
+    - https://i.p-i.vip/24/20240708-668b733ceb459.jpg
+    - https://i.p-i.vip/24/20240708-668b733db8420.jpg
+    - https://i.p-i.vip/24/20240708-668b71669c376.jpg
+    - https://i.p-i.vip/24/20240708-668b733dd7456.jpg
+    - https://i.p-i.vip/24/20240708-668b742329995.jpg
+    - https://i.p-i.vip/24/20240708-668b87fe0c435.jpg
+    - https://i.p-i.vip/24/20240708-668b87fde7f22.jpg
+    - https://i.p-i.vip/24/20240708-668b87fdde26b.jpg
+    - https://i.p-i.vip/24/20240708-668b87fe1262a.jpg
+    - https://cdn.jsdmirror.com/gh/zhang-zhonggui/blog/bolg/21.jpg
+    - https://i.p-i.vip/24/20240708-668b8821765d8.jpeg
+    - https://i.p-i.vip/24/20240708-668b88884bcc2.jpg
+    - https://i.p-i.vip/24/20240708-668b8888aee6b.jpg
+    - https://i.p-i.vip/24/20240708-668b889eb6d5a.jpg
+    - https://i.p-i.vip/24/20240708-668b8888d1117.jpg
+    - https://i.p-i.vip/24/20240708-668b88a1369b5.jpg
+    - https://i.p-i.vip/24/20240708-668b891cb0c08.jpg
+    - https://i.p-i.vip/24/20240708-668bbd1a77172.jpg
+    - https://cdn.jsdmirror.com/gh/zhang-zhonggui/blog/bolg/30.jpg
+    - https://i.p-i.vip/24/20240708-668b89592890f.jpg
+    - https://i.p-i.vip/24/20240708-668b88cbe5992.jpg
+    - https://i.p-i.vip/24/20240708-668bbd58b423f.jpg
+    - https://i.p-i.vip/24/20240708-668bbd58b423f.jpg
+    - https://i.p-i.vip/24/20240708-668bbd58b423f.jpg
+    - https://cdn.jsdmirror.com/gh/zhang-zhonggui/blog/bolg/36.jpg
+    - https://i.p-i.vip/24/20240708-668bbd5d5c1f4.jpg
+    - https://i.p-i.vip/24/20240708-668bbd5ab6246.jpg
+    - https://i.p-i.vip/24/20240708-668bbdcd393b4.jpg
+    - https://cdn.jsdmirror.com/gh/zhang-zhonggui/blog/bolg/40.jpg
+    - https://cdn.jsdmirror.com/gh/zhang-zhonggui/blog/bolg/50.jpg
 
 # Loading image
 loading: /images/loading.gif
@@ -49,29 +94,20 @@ menu:
 card:
     enable: true
     description: |
-        Here's an argvchs...
+        你好世界
     iconLinks:
         github:
             name: github
             theme: brands
-            link: https://github.com/argvchs
+            link: https://github.com/zhang-zhonggui
         qq:
             name: qq
             theme: brands
-            link: http://wpa.qq.com/msgrd?v=3&uin=3364555156&site=qq&menu=yes
-        twitter:
-            name: twitter
-            theme: brands
-            link: https://twitter.com/argvchs
+            link: http://wpa.qq.com/msgrd?v=3&uin=2521250151&site=qq&menu=yes
         email:
             name: envelope
             theme: solid
-            link: mailto:argvchs@outlook.com
-    friendLinks:
-        Yuzi: https://blog.yuzi.dev
-        LynxCatTheThird: https://lynxcatthethird.github.io
-        ShanLunjiaJian: https://shanlunjiajian.github.io
-        Rickyxrc: https://rickyxrc.cc
+            link: zzg.cn@hutlook.com
 
 # Footer info
 footer:
